@@ -7,11 +7,9 @@ flicker: true
 headshot: /images/headshot.jpg
 ---
 
-I am a Software Engineering student at [RMIT University](https://www.rmit.edu.au/) in Melbourne. Starting November 2016 I will be interning with [Zendesk](https://www.zendesk.com/) in a Data Engineering role.
+I am a MSc student at [Universitat Politècnica de Catalunya](https://www.upc.edu/) in Barcelona. I am working as a Research Assistant in [IMB-CNM](https://www.imb-cnm.csic.es/en)
 
-I'm currently doing a lot of work building developer communities around my University. I'll chase any opportunity to improve collaboration and outreach in the tech. industry.
-
-My main areas of interest are in NLP, Agent-Oriented Programming, and Computational Dialectics.
+My main areas of interest are in Deep Learning, hardware implementations, and High Performance Computing.
 
 {% if site.show_talks_section %}
 ## Talks
