@@ -1,12 +1,12 @@
 ######################################
 ## Site settings                    ##
 ######################################
-title:       Junior Theme
-email:       jonathon.bel.melbourne@gmail.com
-author:      Jonathon Belotti
-description: "A striking black-white Jekyll theme."
+title:       Personal webpage
+email:       ferrandelga24@gmail.com
+author:      Ferran Delgà
+description: "Personal webpage"
 baseurl:     ""
-url:         "https://juniortheme.live/"
+url:         "https://ferrandf.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
