@@ -11,7 +11,7 @@ permalink: /resume/
 |
 <i class="fa fa-github"></i> <a href="http://github.com/ferrandf">ferrandf</a>
 |
-<i class="fa fa-x"></i> <a href="http://x.com/ferrandelga">ferrandelga</a>
+<i class="fa fa-twitter"></i> <a href="http://x.com/ferrandelga">ferrandelga</a>
 </div>
 
 
@@ -58,7 +58,7 @@ Formalizing modular forms using LEAN.
 
 * <i class="fa fa-envelope"></i> <a href="mailto:ferrandelga24@gmail.com">ferrandelga24@gmail.com</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/ferrandf">ferrandf</a><br />
-*  <i class="fa fa-x"></i> <a href="http://x.com/ferrandelga">ferrandelga</a><br />
+*  <i class="fa fa-twitter"></i> <a href="http://x.com/ferrandelga">ferrandelga</a><br />
 
 <!-- ### Footer
 
